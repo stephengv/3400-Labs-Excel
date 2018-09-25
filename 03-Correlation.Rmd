@@ -88,7 +88,7 @@ It is a good practice to always keep an unedited copy of the raw data. Now that 
 7) Go to the worksheet we just created
 8) Select cell A1
 9) Press ctrl+v (or right click A1 and select "paste") to paste the "Country" variable into column A of our new worksheet.
-10) Repeat steps 5-9, but now copy the "Country", "Freedom, and "Confidence" variables from Table2.1 columns B, G, and L, to columns B, C and D of our new worksheet. 
+10) Repeat steps 5-9, but now copy the "Year", "Freedom, and "Confidence" variables from Table2.1 columns B, G, and L, to columns B, C and D of our new worksheet. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AuWG9fT87LM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
